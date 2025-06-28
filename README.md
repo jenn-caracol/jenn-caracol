@@ -1,5 +1,7 @@
 # Hi, I'm Jennifer F.
 
+## Objective
+Transitioning into cybersecurity, and more technical hands-on work.
 <!--
 **jenn-caracol/jenn-caracol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
