@@ -55,9 +55,11 @@ My journey personally and professionally has led me to develop a passion for cyb
 <img src="https://img.shields.io/badge/GCIH-B62728?style=for-the-badge&logoColor=white" />
 
 </div>
-<!--
+
 ## Projects
-- Detection Lab
+- [Cybersecurity for Small Networks Labs](https://github.com/jenn-caracol/cybersecurity-for-small-networks/)
+
+<!--
 - SOC Automation Project
 -->
 <!--
