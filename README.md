@@ -40,7 +40,8 @@ My journey personally and professionally has led me to develop a passion for cyb
 <!--[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]-->
 
 ![Static Badge](https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-00A99D?&style=for-the-badge&logo=ISC2&logoColor=white)<br/>
+![Static Badge](https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-00A99D?&style=for-the-badge&logo=ISC2&logoColor=white)  
+
 ![Static Badge](https://img.shields.io/badge/-GIAC%20Certified-003366?&style=for-the-badge&logo=GIAC&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GFACT-732C90?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GSEC-005BAC?style=for-the-badge&logoColor=white)
