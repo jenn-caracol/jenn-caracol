@@ -4,7 +4,7 @@
 I am a recent graduate of the SANS Immersion Academy through scholarship, GIAC GCIH & GSEC certified, and motivated to finish a bachelor's in Cybersecurity through WGU. I love technology, I love to tinker, and I love a challenge.
 
 ## Objective
-My journey personally and professionally has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey personally and professionally has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. I hope you consider me. 😎
 <!--
 ## Skills -->
 <!--[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]-->
