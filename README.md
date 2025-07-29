@@ -1,7 +1,7 @@
 # Hello, I'm Jennifer F
 [![Static Badge](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-fauskin)
 
-I am a recent graduate of the SANS Immersion Academy through scholarship, GIAC GCIH & GSEC certified, and motivated to finish a bachelor's in Cybersecurity through WGU. I love technology, I love to tinker, and I love a challenge.
+I am a recent graduate of the SANS Immersion Academy through scholarship, GIAC GCIH & GSEC certified, and motivated to finish a bachelor's in Cybersecurity through WGU. I love technology, I love to tinker, and I love a challenge. I am currently enrolled in SANS [SEC560 Enterprise Penetration Testing](https://www.sans.org/cyber-security-courses/enterprise-penetration-testing) which will result in a GIAC Penetration Tester certification [(GPEN)](https://www.giac.org/certifications/penetration-tester-gpen/).
 
 ## Objective
 My journey personally and professionally has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. I hope you consider me. 😎
