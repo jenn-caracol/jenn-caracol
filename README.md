@@ -41,7 +41,7 @@ My journey personally and professionally has led me to develop a passion for cyb
 
 [![Static Badge](https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate%20V2-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/bc029b21-ece3-4bc6-8b18-cf6c362772d4/public_url)
 [![Static Badge](https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-00A99D?&style=for-the-badge&logo=ISC2&logoColor=white)](https://www.credly.com/badges/ac0dc286-5d07-4c8b-8a9d-8119f17cdfc8/public_url)  
-![Static Badge](https://img.shields.io/badge/-GIAC%20Certified-003366?&style=for-the-badge&logo=GIAC&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/-GIAC%20Certified-003366?&style=for-the-badge&logo=GIAC&logoColor=white)]()
 [![Static Badge](https://img.shields.io/badge/Advisory%20Board-B38B41?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/e95fb686-61eb-472e-9802-d60c0a6d4b0e/public_url)
 [![Static Badge](https://img.shields.io/badge/GFACT-732C90?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/5d1deb1e-51d6-49e9-8204-099b385e730f/public_url)
 [![Static Badge](https://img.shields.io/badge/GSEC-005BAC?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/28c5fe03-41e9-4275-b094-ecc7f93734f4/public_url)
