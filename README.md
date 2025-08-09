@@ -50,7 +50,7 @@ My journey personally and professionally has led me to develop a passion for cyb
 
 
 ## Projects
-- [Cybersecurity for Small Networks Labs](https://github.com/jenn-caracol/cybersecurity-labs/tree/main/cybersecurity-for-small-networks)
+- [Cybersecurity for Small Networks Labs](https://github.com/jenn-caracol/cybersecurity-labs/tree/main/cybersecurity-for-small-networks) (on hold until GPEN completion)
 
 <!--
 - SOC Automation Project
