@@ -1,7 +1,7 @@
 # Hello, I'm Jennifer F
 [![Static Badge](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-fauskin)
 
-I am a recent graduate of the SANS Immersion Academy through scholarship, GIAC GCIH & GSEC certified, and motivated to finish a bachelor's in Cybersecurity through WGU. I love technology, I love to tinker, and I love a challenge. I am currently enrolled in SANS [SEC560 Enterprise Penetration Testing](https://www.sans.org/cyber-security-courses/enterprise-penetration-testing) which will result in a GIAC Penetration Tester certification [(GPEN)](https://www.giac.org/certifications/penetration-tester-gpen/).
+I am a recent graduate of the SANS Immersion Academy through scholarship, GIAC GCIH & GSEC certified, and motivated to finish a bachelor's in Cybersecurity through WGU. I love technology, I love to tinker, and I love a challenge. I recently got my GIAC Penetration Tester certification [(GPEN)](https://www.giac.org/certifications/penetration-tester-gpen/), and I'm working a Jr. Penetration Tester internship.
 
 ## Objective
 My journey personally and professionally has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. I hope you consider me. 😎
@@ -46,11 +46,11 @@ My journey personally and professionally has led me to develop a passion for cyb
 [![Static Badge](https://img.shields.io/badge/GFACT-732C90?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/5d1deb1e-51d6-49e9-8204-099b385e730f/public_url)
 [![Static Badge](https://img.shields.io/badge/GSEC-005BAC?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/28c5fe03-41e9-4275-b094-ecc7f93734f4/public_url)
 [![Static Badge](https://img.shields.io/badge/GCIH-B62728?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/8f35ab55-ba57-4744-ac30-d37a91f4184b/public_url)
+[![Static Badge](https://img.shields.io/badge/GPEN-B62728?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/ad27a82b-263c-426b-91d8-fbfadbe3f7e6/public_url)
 
 
-
-## Projects
-- [Cybersecurity for Small Networks Labs](https://github.com/jenn-caracol/cybersecurity-labs/tree/main/cybersecurity-for-small-networks) (on hold until GPEN completion)
+<!--## Projects
+- [Cybersecurity for Small Networks Labs](https://github.com/jenn-caracol/cybersecurity-labs/tree/main/cybersecurity-for-small-networks) (on hold until after the holidays)-->
 
 <!--
 - SOC Automation Project
